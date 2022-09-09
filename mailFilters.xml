@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:2438780547873467934,3147691162420019701,3731132663198723286,5110905777622171555,5880660954038203021,637258829777286262,6577790485423506761,7991894992537719166,8581982887760874544,z0000001560223915540*2575840640005799575,z0000001561476282260*8378910016900899654,z0000001568113277923*6074032952951762011,z0000001580735063041*1031333201351115297,z0000001601214550227*6354009855580093894</id>
+	<updated>2021-06-15T05:24:30Z</updated>
+	<author>
+		<name>Gajapathi Kimidi</name>
+		<email>gajapathik@jfrog.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:637258829777286262</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='to' value='bintray@bintray.com'/>
+		<apps:property name='label' value='Bintray request'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:2438780547873467934</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='to' value='india-frogs@jfrog.com'/>
+		<apps:property name='label' value='India Frogs'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:3147691162420019701</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='-(jira@jfrog.org) AND (-noreply@salesforce.com) AND (-support@jfrog.com) AND (-noreply@chatter.salesforce.com)'/>
+		<apps:property name='to' value='gajapathik@jfrog.com'/>
+		<apps:property name='label' value='Gaja&apos;s mails'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:3731132663198723286</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='(support@jfrog.com) OR (noreply@salesforce.com)'/>
+		<apps:property name='label' value='Support'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:5110905777622171555</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@salesforce.com OR support@jfrog.com'/>
+		<apps:property name='to' value='gajapathik@jfrog.com'/>
+		<apps:property name='subject' value='A new ticket has been assigned to you'/>
+		<apps:property name='label' value='Tickets'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:5880660954038203021</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='to' value='support@jfrog.com'/>
+		<apps:property name='label' value='Support'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:6577790485423506761</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='-(support@jfrog.com)'/>
+		<apps:property name='to' value='support-team@jfrog.com'/>
+		<apps:property name='label' value='Team Support'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:7991894992537719166</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='jira@jfrog.org'/>
+		<apps:property name='label' value='JIRA'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:8581982887760874544</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='to' value='in-support-team@jfrog.com'/>
+		<apps:property name='label' value='India Support'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001560223915540*2575840640005799575</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@salesforce.com OR support@jfrog.com'/>
+		<apps:property name='to' value='gajapathik@jfrog.com'/>
+		<apps:property name='subject' value='New case email notification'/>
+		<apps:property name='label' value='Tickets Followup'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001561476282260*8378910016900899654</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='shlomib@jfrog.com OR hilado@jfrog.com OR roies@jfrog.com'/>
+		<apps:property name='label' value='Jfrog'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001568113277923*6074032952951762011</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@chatter.salesforce.com'/>
+		<apps:property name='to' value='gajapathik@jfrog.com'/>
+		<apps:property name='subject' value='Your Daily Digest for JFrog'/>
+		<apps:property name='label' value='Daily Digest'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001580735063041*1031333201351115297</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='service@jfrog.com'/>
+		<apps:property name='label' value='service'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001601214550227*6354009855580093894</id>
+		<updated>2021-06-15T05:24:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='helpdesk@jfrog.com'/>
+		<apps:property name='label' value='Support'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
