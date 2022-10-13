@@ -6,22 +6,16 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>java-project2</name>
+  <url>http://maven.apache.org</url>
 	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.2</version>
+      <version>3.7</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>artifactory7-test-1-releases</name>
-        <url>http://34.93.54.82:8081/artifactory/smart-maven-libs-release-local</url>
-    </repository>
-</distributionManagement>
 	
   <properties>
 		<!-- https://maven.apache.org/general.html#encoding-warning -->
